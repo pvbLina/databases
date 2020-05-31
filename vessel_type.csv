@@ -1,0 +1,7 @@
+vsl_type_id,vsl_type_name,vsl_category_id
+101,general,1
+102,tanker,1
+103,chemical,1
+104,dry,2
+105,heavy,2
+106,container,3
