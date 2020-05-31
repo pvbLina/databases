@@ -1,0 +1,4 @@
+category_id,category_name,freight_per_day,fee_per_day,description
+1,Voyage charter,32000,30000,voyage charter . The charterer pays cargo expenses only 
+2,Time charter,27000,30000,"time charter. Charterer pays cargo and  voyage  expenses such as fuel, port tax, canal dues "
+3,Bareboat charter,12000,15000,"Bareboat charter.  Charterer pays cargo, voyage and daily running costs."
